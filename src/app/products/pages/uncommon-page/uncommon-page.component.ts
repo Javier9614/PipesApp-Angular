@@ -33,4 +33,11 @@ public clientsMap = {
   'other' : 'tenemos # clientes esperando.'
 }
 
+//KeyValue Pipe
+public person={
+  name: 'Javi',
+  age: 28,
+  address: 'Zaragoza, España'
+}
+
 }
